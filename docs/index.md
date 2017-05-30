@@ -39,6 +39,10 @@ applications for SGX enclaves.
 
 * [SCONE Dockerfile](SCONE_Dockerfile.md): we support the use of Dockerfiles to generate Docker images that contain services running inside of SGX enclaves (this requires a [patched Docker Engine](SCONE_HOSTINSTALLER_README.md)).
 
+* [SCONE Swarm](SCONE_Swarm.md): show how to setup a Docker Swarm usable for SCONE.
+
+* [SCONE Swarm Example](SCONE_Swarm_Example.md): shows an example of how to start SCONE services on top of a Docker Swarm. 
+
 * [Publications](SCONE_Publications.md):  some of the technical aspects of SCONE have been published in scientific papers. 
 We provide a short summary of the papers and links to the pdfs. 
 

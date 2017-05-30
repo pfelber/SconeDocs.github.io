@@ -8,5 +8,7 @@ pages:
  - SCONE Tutorial: SCONE_TUTORIAL.md
  - SCONE Create Image: SCONE_GENERATE_IMAGE.md
  - SCONE Dockerfile: SCONE_Dockerfile.md
+ - SCONE Swarm: SCONE_Swarm.md
+ - SCONE Swarm Example: SCONE_Swarm_Example.md
  - SCONE Publications:  SCONE_Publications.md
 theme: readthedocs

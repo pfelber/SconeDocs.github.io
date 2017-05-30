@@ -21,12 +21,24 @@ If you want to try out the documents in a browser, execute
 mkdocs serve
 ```
 
-and point your browser to http://127.0.0.1:8000/ 
+and point your browser to http://127.0.0.1:8000/ :
 
-To push this to github execute:
+```bash
+open http://127.0.0.1:8000/
+```
+
+
+To push a new container with this website to github execute:
 
 ```bash
 docker login
 ./generate_docker_docu_container.sh
 ```
+
+To update the github website (https://sconedocs.github.io/):
+
+```bash
+make deploy
+```
+
 
